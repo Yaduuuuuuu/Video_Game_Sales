@@ -25,5 +25,3 @@ Global_Sales - Total worldwide sales.
 
 
 In this dataset the target variable is Global sales
-
-
