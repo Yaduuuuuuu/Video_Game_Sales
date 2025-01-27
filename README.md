@@ -1,7 +1,5 @@
 # Video_Game_Sales
-This dataset contains a list of video games with sales 16598 rows. in this dataset there were 11 columns and the target variable of the dataset is global sales.
-
-Description
+This dataset is about world wide video games sales and this dataset contain 16598 rows and 11 columns and the target variable of the dataset is global sales. This dataset is taken from kaggle 
 
 Rank - Ranking of overall sales
 
@@ -25,7 +23,7 @@ Other_Sales - Sales in the rest of the world
 
 Global_Sales - Total worldwide sales.
 
-Target variable
 
-find out the global_sales of the video game for the all other data provide
+In this dataset the target variable is Global sales
+
 
